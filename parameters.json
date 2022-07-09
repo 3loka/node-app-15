@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "sites_azure_oidc_app_name": {
-            "value": "<azure-app-service-name>"
+            "value": "node-app-15"
         }
     }
 }
